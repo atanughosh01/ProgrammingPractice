@@ -1,2 +1,2 @@
-# programming-practice
-Random practice code-dumps
+# ProgrammingPractice
+Random unorganised practice code-dumps
