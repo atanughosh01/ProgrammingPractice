@@ -1,3 +1,5 @@
+package Thread.ExtendThread;
+
 // create a second thread
 class NewThread extends Thread {
 

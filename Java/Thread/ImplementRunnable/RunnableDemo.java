@@ -1,3 +1,5 @@
+package Thread.ImplementRunnable;
+
 // create a second thread
 class NewThread implements Runnable {
     Thread t;

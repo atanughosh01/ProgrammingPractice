@@ -1,4 +1,4 @@
-/*  Assignment 1:
+package StudentProblem.src;/*  Assignment 1:
 Design a STUDENT class to store roll, name, course, admission date and marks in 5 subjects taken from user.
 Create an array of STUDENT objects. Provide methods corresponding to admission date and receiving marks,
 preparing mark sheet. Support must be there to show the number of students who have taken admission.

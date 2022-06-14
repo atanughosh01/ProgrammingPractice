@@ -1,3 +1,5 @@
+package AirlineProblem.src;
+
 import java.io.*;
 import java.util.*;
 
@@ -37,8 +39,7 @@ public class AirlineProblem {
     }
 
    // @Override
-    private static boolean canRedeem(String current, String goal, ArrayList<String> pathForMiles,
-                                     ArrayList<String> airlinesVisited, ArrayList<Airline> network) {
+    private static boolean canRedeem(String current, String goal, ArrayList<String> pathForMiles, ArrayList<String> airlinesVisited, ArrayList<Airline> network) {
         if (current.equals(goal)) {
             // base case 1, I have found a path!
             pathForMiles.add(current);
